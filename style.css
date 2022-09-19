@@ -1,0 +1,137 @@
+body {
+    margin: 0px 0px 0px 0 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+background-color:beige;
+
+}
+* {
+    margin: .9;
+}
+.firstPart {
+
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    font-size: medium;
+    text-align: left;
+    width: 65%;
+    padding-bottom: 52px;
+   
+}
+.languages{
+
+    padding: 20px;
+    font-family: "Audiowide",sans-serif;
+    font-size:medium;
+    display: inline-block;
+    text-align: left;
+    width: 65%;
+    padding-bottom: 52px;
+    
+}
+.Leadership{
+    padding: 20px;
+    font-family: "Audiowide", sans-serif;
+    font-size: medium;
+    display: inline-block;
+    text-align: left;
+    width: 65%;
+    padding-bottom: 52px;
+}
+.Stars{
+    padding: 20px;
+    font-family: "Audiowide", sans-serif;
+    font-size: medium;
+    display: inline-block;
+    text-align: left;
+    width: 65%;
+    padding-bottom: 52px;
+ 
+}
+a:link { color:red;
+    text-decoration: none;
+    font-family: "Sofia", sans-serif;
+}
+a:visited {color:darkcyan;
+text-decoration: none;
+font-family: "Sofia",sans-serif;}
+#GFG {
+    background-color: black;
+    color: darkcyan;
+    padding: 10px 20px;
+}
+#GFG:hover{
+    color: darkgreen;
+}
+a:hover{
+    color: darkgreen;
+}
+.hrContact{
+    border: 2px solid rgb(20, 189, 90);
+}
+.hr1{
+    border: 2px solid rgb(20, 189, 90);
+}
+.hr2{
+    border: 2px solid rgb(20, 189, 90);
+}
+.hr3{
+    border: 2px solid rgb(20, 189, 90);
+}
+.mountain {
+    background-color: crimson;
+    left: 0;
+    right: 0;
+    width: 1700px;
+    top: 300px;
+}
+.Copyright {
+    background-color: lightcoral;
+    padding: 1.3px;
+    text-align: center;
+}
+.Computer {
+    float: right;
+    width: 30%;
+    padding-top: 40px;
+    mix-blend-mode: darken;
+}
+.Arch {
+    float: right;
+    width: 30%;
+    padding-top: 40px;
+    mix-blend-mode: darken;
+}
+.Stadium {
+    float: right;
+    width: 30%;
+    padding-top: 40px;
+    
+}
+.Names{
+    float: left;
+    width: 65%;
+}
+.Email{
+    float: left;
+    width: 65%;
+
+}
+.Message{
+    float: right;
+    width: 65%;
+}
+.Submit{
+    float: right;
+    width: 65%;
+}
+.headerContact{
+    margin: 0px 0px 0px 0 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+background-color:beige;
+
+}
